@@ -1,3 +1,1 @@
-# tinDog
-
-tinDog tutorial project in BootCamp
+TinDog Starting Files
